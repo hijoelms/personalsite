@@ -1,0 +1,72 @@
+
+
+#outerlayer{
+  height: 100vh;
+  background-color: #DCD7C9;
+}
+
+.leftinsidelayer{
+
+  background-color: #3F4E4F;
+  color: #A27B5C;
+
+  width: 65%;
+  height: 100%;
+}
+
+.rightinsidelayer{
+  
+  background-color: #A27B5C;
+  color: #2C3639;
+  float: right;
+  width: 65%;
+}
+
+.rightinsidelayertext{
+
+  color: #2C3639;
+  
+}
+
+.mydescription{
+
+  color: #2C3639;
+  z-index: 1;
+}
+
+
+.webdeisgnpic{
+
+ 
+}
+
+.myname{
+  color: #DCD7C9;
+}
+
+.aboutme{
+
+}
+
+.skill{
+
+}
+
+.product-device {
+  position: absolute;
+  right: 10%;
+  bottom: -30%;
+  width: 300px;
+  height: 540px;
+  background-color: #333;
+  border-radius: 21px;
+  transform: rotate(30deg);
+}
+
+.product-device-2 {
+  top: -25%;
+  right: auto;
+  bottom: 0;
+  left: 5%;
+  background-color: #e5e5e5;
+}
